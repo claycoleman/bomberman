@@ -6,7 +6,7 @@ var io = require('socket.io').listen(server);
 
 const ip = process.argv[2] || 'localhost';
 // const ip = 'localhost';
-const port = process.argv[3] || 8080;
+const port = process.argv[3] || 3000;
 
 // adding features:
 
