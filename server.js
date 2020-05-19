@@ -858,6 +858,6 @@ io.on('connection', function (socket) {
   });
 });
 
-server.listen(port, ip, function () {
+server.listen({ port, exclusive: true }, function () {
   console.log(`Listening on ${ip}:${server.address().port}`);
 });
