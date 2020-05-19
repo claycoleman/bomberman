@@ -1,3 +1,5 @@
+# bomberman
+
 TODO
 
 LONGER
@@ -5,4 +7,4 @@ LONGER
 - implement kick bombs
 
 BUGS
-- fix dying on the other player's screen# bomberman
+- fix dying on the other player's screen
